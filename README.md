@@ -1,6 +1,6 @@
 # git-to-git
 
-A simple script to migrate repositories from GitHub, GitLab, Gitea, or Bitbucket to Forgejo/Gitea.
+A simple script to move/mirror repositories from GitHub, GitLab, Gitea, or Bitbucket to Forgejo/Gitea.
 
 ## Requirements
 
