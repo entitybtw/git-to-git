@@ -22,3 +22,10 @@ sudo yum install curl jq
 
 # Arch
 sudo pacman -Sy curl jq
+```
+
+
+you can run the script with this command
+```bash
+curl -fsSL https://raw.githubusercontent.com/entitybtw/git-to-git/refs/heads/main/git-to-git.sh | sh
+```
