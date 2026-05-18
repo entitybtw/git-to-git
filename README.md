@@ -1,6 +1,8 @@
 # git-to-git
 
-A simple script to move/mirror repositories from GitHub, GitLab, Gitea, or Bitbucket to Forgejo/Gitea.
+A collection of my scripts for migrating repositories, releases, issues, etc. from GitHub to my selfhosted git service
+
+most of them are vibecoded :/
 
 ## Requirements
 
@@ -22,10 +24,4 @@ sudo yum install curl jq
 
 # Arch
 sudo pacman -Sy curl jq
-```
-
-
-you can run the script with this command
-```bash
-curl -fsSL https://raw.githubusercontent.com/entitybtw/git-to-git/refs/heads/main/git-to-git.sh | sh
 ```
